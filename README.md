@@ -21,9 +21,9 @@ The goal is to build and compare five machine learning classification models tha
 
 ## c. GitHub Repository Link
 
-https://github.com/YOUR-USERNAME/ml-assignment-2
+https://github.com/padmaj-a-r/ML-Assignment-2
 
-**Live Streamlit app:** https://YOUR-APP-NAME.streamlit.app
+**Live Streamlit app:** https://inbox-guard-spam-lab-ml.streamlit.app/
 
 ### Repository structure
 
